@@ -435,6 +435,9 @@ input::placeholder{
     border-radius: 88.64px;
     background-color: #000000;
   }
+  .header_down-box_searchshop-box_searching-box_input::placeholder{ 
+    color: transparent;
+  }
   .header_down-box_searchshop-box_searching-box_input:hover, .header_down-box_searchshop-box_searching-box_input:focus{
     width:170px;
     transition: 1s;
